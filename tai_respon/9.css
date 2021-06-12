@@ -136,4 +136,22 @@ body{
     .ml16 {
         font-size: 1.5em;
       }
+      .im:active h2{
+        color:transparent;
+        text-shadow: none;
+        
+    }
+    .im:active h3{
+        color:rgb(247, 247, 247);
+        
+        text-shadow: 0.1em 0.1em 0.05em #000;
+    
+    }
+    .im:active h4{
+        color:rgb(252, 248, 23);
+        text-shadow: 0.1em 0.1em 0.05em #000;
+      
+    
+    }
+
 }
