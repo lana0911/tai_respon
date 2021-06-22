@@ -132,7 +132,7 @@ body{
 body{
     background-image: url("up.jpg");
     background-size: cover;
-    width: 500px;
+    width: 100%;
 
 }
 
